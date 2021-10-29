@@ -1,0 +1,271 @@
+.heading-bar {
+    background-color: rgba(126, 51, 224, 1);
+}
+
+.menu {
+    font-family: Lato;
+}
+
+.menu #myList {
+    color:rgba(251, 46, 134, 1);
+}
+
+.menu .header-search .search-button {
+    background-color: rgba(251, 46, 134, 1);
+}
+
+.shop-grid-default .shopp-grid-name {
+    font-family: Josefin Sans;
+    color:rgba(16, 23, 80, 1);
+    font-style: bold;
+}
+
+.shop-grid-default .page-list {
+    font-family: Lato;
+}
+
+.shop-grid-default .page-list a:last-child {
+    color: rgba(251, 46, 134, 1);
+}
+
+.grid-default-page .acceories-category {
+    font-family: Lato;
+    color: rgba(63, 80, 158, 1);
+}
+
+.acceories-result .ecommerce-acceories {
+    font-family: Josefin Sans;
+    color:rgba(21, 24, 117, 1);
+}
+
+.sort-by .dropdown-sort {
+    color: rgba(138, 143, 185, 1);
+}
+
+.view .fa-list  {
+    font-size: 12px;
+}
+
+.view .fa-th-large {
+    font-size: 12px;
+}
+
+.footer {
+    background-color: rgba(238, 239, 251, 1);
+}
+.footer .container .footer-category {
+    color: rgba(138, 143, 185, 1);
+}
+
+.footer .container .footer-form button.signUp-form {
+    background-color: rgba(251, 46, 134, 1) !important;
+}
+
+.footer .container .footer-form .hekto-input::placeholder {
+    color: rgba(138, 143, 185, 1);
+    padding-left: 20px;
+    size: 16px;
+}
+
+.webecy {
+    background-color: rgba(231, 228, 248, 1);
+}
+
+.webecy .footer-icon .fa{
+    font-size: 19px;
+}
+
+i.fa.fa-facebook-square, i.fa.fa-instagram, i.fa.fa-twitter-square {
+    color: rgba(21, 24, 117, 1);
+}
+
+.container .product-info .product-title, .price {
+    color: rgba(21, 24, 117, 1);
+}
+
+.container .product-info {
+    font-family: Josefin Sans;
+}
+
+.discount-price {
+    color: rgba(251, 46, 134, 1);
+}
+
+.feauter-product-title {
+    font-family: Josefin Sans;
+    color: rgba(26, 11, 91, 1);
+}
+
+.product-title-homepage {
+    color: rgba(251, 46, 134, 1);
+}
+
+.support {
+    color: rgba(21, 24, 117, 1);
+    font-family: Josefin Sans;
+}
+
+.add-cart {
+    background-color: rgba(251, 46, 134, 1);
+    font-family: Josefin Sans;
+}
+
+.price-italia {
+    color: rgba(21, 24, 117, 1);
+    font-family: Josefin Sans;
+}
+
+.trending-products {
+    grid-template-columns: auto auto 22%;
+}
+
+.shopp {
+   color: rgba(251, 46, 134, 1);
+   font-family: lato;
+}
+
+html, body {
+  position: relative;
+  height: 100%;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: left;
+  font-size: 18px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  margin: 0;
+}
+
+.swiper-slide img {
+  display: block;
+  object-fit: cover;
+  color: rgba(251, 46, 134, 1);
+}
+
+span.swiper-pagination-bullet {
+    color: rgba(251, 46, 134, 1);
+}
+
+span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+    color: rgba(251, 46, 134, 1);
+}
+
+.product-info .leatest-blog {
+    color: rgba(114, 113, 143, 1);
+}
+
+.best-furniture {
+    color: rgba(251, 46, 134, 1);
+    font-family: lato;
+}
+
+.new-furniture {
+    color:rgba(0, 0, 0, 1);
+    font-family: Josefin Sans;
+    font-style: bold;
+}
+
+.discription {
+    color: rgba(138, 143, 185, 1);
+    font-family: lato;
+}
+
+.sofa-img {
+    width: 689px;
+}
+
+.home-page-head {
+    height: 764px;
+
+}
+
+.product-title {
+    color: rgba(17, 28, 133, 1);
+}
+
+.list-img {
+    margin-top: 100%;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    border-radius: 0;
+}
+
+.image2 {
+    position: absolute;
+    bottom: 18px;
+    left: 17px;
+    border-radius: 0;
+}
+
+.client .ourClient {
+    font-family: Josefin Sans;
+    color:rgba(0, 0, 0, 1);
+    font-style: bold;
+}
+
+.client .client-name {
+    color: rgba(21, 24, 117, 1);
+    font-family: Lato;
+}
+
+.client .location {
+    color: rgba(138, 143, 185, 1);
+    font-family: Lato;
+}
+
+.client .client-discription {
+    color: rgba(138, 143, 185, 1);
+    font-family: Lato;
+}
+
+.tel, .email {
+    color: rgba(138, 143, 185, 1);
+}
+
+.info {
+    color: rgba(21, 24, 117, 1);
+    font-family: Josefin Sans;
+}
+
+.form-input {
+    border: 1px solid rgba(164, 182, 200, 0.7);
+}
+
+.form-input::placeholder {
+    color: rgba(138, 143, 185, 1);
+    font-family: Lato;
+    font-size: 16px;
+}
+
+@media all and (max-width: 765px) {
+
+    .list-img {
+        margin-top: 10px;
+    }
+}
